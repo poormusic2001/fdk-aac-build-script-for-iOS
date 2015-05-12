@@ -5,7 +5,7 @@ CONFIGURE_FLAGS="--enable-static --with-pic=yes --disable-shared"
 ARCHS="armv7s x86_64 i386 armv7"
 
 # directories
-SOURCE="fdk-aac-0.1.3"
+SOURCE="fdk-aac-0.1.4"
 FAT="fdk-aac-ios"
 
 SCRATCH="scratch"
